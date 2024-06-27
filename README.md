@@ -1,4 +1,4 @@
-<h2 align="center">KETUPAT SPAM</h2>
+<h2 align="center">RISKY KYYZ</h2>
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=language&message=Bourne+Again+Shell&color=green&logo=nano">
   <img src="https://img.shields.io/static/v1?label=Framework&message=Bash+ID&color=green&logo=reddit"><br>
@@ -12,7 +12,7 @@ dengan bermodalkan nomor telepon target, dan tools ini sangat saya rekomendasika
   yang tidak datang ke rumah kalian di saat hari raya idul fitri :v
 <br>
 
-- Disclaimer: Hanya support nomor +62
+- Disclaimer: Hanya support nomor +62 +886
 - ## cara menginstall
 \- siapkan termux versi terbaru<br>
 \- setup termux anda<br>
@@ -35,7 +35,7 @@ pip install rich
 pip install rich-cli
 gem install lolcat
 git clone https://github.com/Bayu12345677/Ketupat-Terror.git
-cd Ketupat-Terror
+cd Risky
 make setup
 make Run
 ```

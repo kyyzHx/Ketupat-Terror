@@ -12,7 +12,7 @@ dengan bermodalkan nomor telepon target, dan tools ini sangat saya rekomendasika
   yang tidak datang ke rumah kalian di saat hari raya idul fitri :v
 <br>
 
-- Disclaimer: Hanya support nomor +62
+- Disclaimer: Hanya support nomor +62 +886
 - ## cara menginstall
 \- siapkan termux versi terbaru<br>
 \- setup termux anda<br>
